@@ -7,8 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "start": "live-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "keywords": [
     "platzi"
@@ -16,6 +15,12 @@
   "author": "Esteban Alvarado Vargas <estalvgs1999@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.1"
-  }
+    "live-server": "^1.2.1",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  },
+  "browserslist": [
+    "last 1 Firefox version",
+    "last 1 chrome version"
+  ]
 }
