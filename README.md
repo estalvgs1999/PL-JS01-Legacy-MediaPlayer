@@ -2,7 +2,7 @@
 
 Video playback platform. Legacy Media Player offers a collection of plugins that extend the functionality of the video player.
 
-<p align=center><img src="./assets/img/badge-profesional-javascript.webp"></p>
+<p align=center><img src="./mediaplayer/assets/img/badge-profesional-javascript.webp"></p>
 
 ***
 
@@ -36,7 +36,7 @@ Video playback platform. Legacy Media Player offers a collection of plugins that
 *** 
 
 <p align="justify">
-  <img src="./assets/img/main.png" >
+  <img src="./mediaplayer/assets/img/main.png" >
 </p>
 
 ***
@@ -102,7 +102,7 @@ For the development of this project we use the following technologies
 
 ## Docs 📖
 
-You can find the <b>notes and the slides</b> of the course in our [documentation section](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/doc)
+You can find the <b>notes and the slides</b> of the course in our [documentation section](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/mediaplayer/doc)
 
 ## Authors
 
@@ -117,5 +117,5 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ***
 <p align="center">
-<img src="./assets/img/platzi_w.png" width="100"/>
+<img src="./mediaplayer/assets/img/platzi_w.png" width="100"/>
 </p>
