@@ -113,7 +113,7 @@ The thanks for this project go to [platzi](https://platzi.com/clases/javascript-
 
 ## License 📄
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/PLJS01-Legacy-MediaPlayer/blob/master/LICENSE) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/blob/master/LICENSE) file for details
 
 ***
 <p align="center">
