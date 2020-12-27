@@ -102,7 +102,7 @@ For the development of this project we use the following technologies
 
 ## Docs 📖
 
-You can find the <b>notes and the slides</b> of the course in our [documentation section](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/mediaplayer/doc)
+You can find the <b>notes and the slides</b> of the course in our [documentation section](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/tree/master/mediaplayer/doc)
 
 ## Authors
 
@@ -113,7 +113,7 @@ The thanks for this project go to [platzi](https://platzi.com/clases/javascript-
 
 ## License 📄
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/PLJS01-Legacy-MediaPlayer/LICENSE) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/PLJS01-Legacy-MediaPlayer/tree/master/LICENSE) file for details
 
 ***
 <p align="center">
