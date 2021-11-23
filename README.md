@@ -75,7 +75,7 @@ For the development of this project we use the following technologies
       <p align=center><img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" height="130"></p>
     </td>
     <td>
-      <p align=center><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.darrenmothersele.com%2Fimages%2Fts-logo.png&f=1&nofb=1" width="100"></p>
+      <p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="100"></p>
     </td>
   </tr>
   
